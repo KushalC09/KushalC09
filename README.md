@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F1759768-data-scientist-word-banner&psig=AOvVaw1kpd72Qf6jALqRFDKhup52&ust=1708708993371000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMit_pa7v4QDFQAAAAAdAAAAABAE)]
+[![MasterHead](https://as1.ftcdn.net/v2/jpg/02/42/83/38/1000_F_242833857_rsLAXVpWoSsKMOt9n5BCb4IRdNRupQ8X.jpg)]
 <h1 align="center">Hi 👋, I'm Kushal Chaple</h1>
 <h3 align="center">A passionate Data Scientist from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/6480cd9bff9f9835689b10c3/6527e19dd280808ec95dd3d2_predictionhealth_analytics-robot-and-data-scientist.gif">
@@ -8,6 +8,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KushalC09?tab=repositories](https://github.com/KushalC09?tab=repositories)
 
+- 👨‍💻 Data Visualization Dashboards [https://public.tableau.com/app/profile/kushal.chaple/vizzes]
+  
 - 📫 How to reach me **kc.kushal028@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mB1IMsoNEV0SzFuGYhk59XdvSDTi-Or-/view?usp=sharing](https://drive.google.com/file/d/1mB1IMsoNEV0SzFuGYhk59XdvSDTi-Or-/view?usp=sharing)
